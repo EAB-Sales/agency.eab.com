@@ -1,1 +1,2 @@
 /sales/* https://eab-sales.netlify.app/:splat 200!
+/proof/nsu/* https://nsu-florida-proof.netlify.app/:splat 200!
