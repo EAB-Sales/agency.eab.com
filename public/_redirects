@@ -1,4 +1,4 @@
-/sales/* https://eab-sales.netlify.app/:splat 200!
+# /sales/* https://eab-sales.netlify.app/:splat 200!
 /proof/nsu/* https://nsu-florida-proof.netlify.app/:splat 200!
 /proof/milton/* https://proof-milton-hershey.netlify.app/:splat 200!
 /proof/121419/* https://proof-milton-hershey.netlify.app/:splat 200!

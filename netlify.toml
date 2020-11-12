@@ -1,3 +1,4 @@
 [[redirects]]
-  from = "/"
+  from = "/*"
   to = "/sales"
+  status = 301
