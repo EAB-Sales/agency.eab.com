@@ -1,3 +1,2 @@
-/ /sales
 /sales/* https://eab-sales.netlify.app/:splat 200!
-/* https://eab-sales.netlify.app/:splat 200!
+/* /sales/:splat 200!
